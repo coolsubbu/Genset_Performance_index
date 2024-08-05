@@ -1,4 +1,6 @@
-Compatio Generator Performance Index 
+Compatio Generator Performance Index is to measure the performance if the Generator using an index which cover various metrics usually taken for granted / assumed to OK / Available.
+
+
 Imagine having an Amazon-like Website for Buying generators with ratings, reviews and  Recommendations. Lets add a comprehensive Performance index to rank them.
 
 
