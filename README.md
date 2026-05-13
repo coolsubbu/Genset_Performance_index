@@ -4,7 +4,7 @@ Compatio generator performance index is to measure the performance if the genera
 Imagine having an amazon-like website for buying generators with ratings, reviews and  recommendations. Lets add a comprehensive performance index to rank them.
 
 
-we have 26 metrics from several types of performance metrics usually assumed to be good. We can have a single Compatio Score for all of them .
+we have 26 metrics from several types of performance metrics usually assumed to be good. We can have a single Compatio score for all of them .
 The following are the metrics considered for Compatio generator index:
 
 ISO certifications 
