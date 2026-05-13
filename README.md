@@ -1,77 +1,77 @@
-Compatio Generator Performance Index is to measure the performance if the Generator using an index which cover various metrics usually taken for granted / assumed to OK / Available.
+Compatio generator performance index is to measure the performance if the generator using an index which cover various metrics usually taken for granted / assumed to ok / available.
 
 
-Imagine having an Amazon-like Website for Buying generators with ratings, reviews and  Recommendations. Lets add a comprehensive Performance index to rank them.
+Imagine having an amazon-like website for buying generators with ratings, reviews and  recommendations. Lets add a comprehensive performance index to rank them.
 
 
-we have 26 metrics from several types of Performance metrics usually assumed to be good. We can have a single Compatio Score for all of them .
-The following are the metrics considered for Compatio Generator Index:
+we have 26 metrics from several types of performance metrics usually assumed to be good. We can have a single Compatio Score for all of them .
+The following are the metrics considered for Compatio generator index:
 
-ISO Certifications 
+ISO certifications 
 * ISO 8528 Series,
 * ISO 3046 Series ,
 * ISO 12100:2010 ,
 * ISO 8178
 
-Reliability : 
-* MeanTime Between Failures/ Repairs/ Maintenance 
-* Operational Availability
-* Failure to Start Probability
-* Lower Capacity Overloads
+reliability : 
+* mean time between failures/ repairs/ maintenance 
+* operational availability
+* failure to start probability
+* lower capacity overloads
   
-Stability:
- * For Constant /  Stochastic Loads / Step Load Changes:
- * Output Stable Voltage , Current & Frequency
- * Supports against Derating and balancing
- * Stable Output over Extreme temperature  
+stability:
+ * For constant /  stochastic loads / step load changes:
+ * output stable voltage , current & frequency
+ * supports against derating and balancing
+ * stable output over extreme temperature  
 
-Protection:
-* Frame Permeability (leak , Corrosion Resistant)
-* UV / water Resistant
-* Extreme external Temperature Resistant
-* Magneto Thermal Protection
-* Adhering to Safety Standards EN 1679-1
+protection:
+* frame permeability (leak , corrosion resistant)
+* uv / water resistant
+* extreme external temperature resistant
+* magneto thermal protection
+* adhering to safety standards EN 1679-1
 
 
-Efficiency:
-* Fuel Efficiency:
-* High Thermal Efficiency under constant and Stochastic loads
-* Coolant Technology
-* Time in seconds from 0 to 10MVA
+efficiency:
+* fuel efficiency:
+* high thermal efficiency under constant and stochastic loads
+* coolant technology
+* time in seconds from 0 to 10 mega volt ampere
+  
+budget : 
+* generator cost
+* most resale value after 5yrs
+* highest guaranty / warranty period.
+* highest service period
+* highest spare parts warranty period
 
-Budget : 
-* Generator Cost
-* Most resale value after 5yrs
-* Highest Guaranty / Warranty Period.
-* Highest Service period
-* Highest spare parts warranty period
+user ratings:
+* most convenience rated
+* best consumer reviews
+* least consumer complained / 
+* least consumer returned 
+* best serviced 
 
-User Ratings:
-* Most Convenience rated
-* Best Consumer reviews
-* Least Consumer complained / 
-* Least Consumer returned 
-* Best serviced 
+maintenance:
+* regular hydrostatic test.
+* longest lubricant / oil change period.
+* reduced maintenance frequency.
+* reduced maintenance cost.
 
-Maintenance:
-* Regular Hydrostatic Test.
-* Longest Lubricant / oil Change period.
-* Reduced Maintenance Frequency.
-* Reduced Maintenance Cost.
+convenience:
+* click to power facility 
+* remote start for a generator
+* noise generator in decibels at 7m / 1m or lwa
+* weight of the generated in kgs / lbs.
 
-Convenience:
-* Click to Power Facility 
-* Remote Start for a Generator
-* Noise Generator in Decibels at 7m / 1m or LWA
-* Weight of the Generated in Kgs / Lbs.
-
-Eco-Friendly:
-* Carbon FootPrint in metric tons of CO2 emissions per year.
-* Pollutants emissions rating EPA Tier 1 to Tier 5.
-* Local body Emissions Standards Adherence in terms of PM (Particulate Matter) , PPMV(Parts per Million by Volume ) 	
-* Measurement and Monitoring of levels of
-    * NOx  (Nitrogenous oxides),
-    * C (Carbon) ,
-    * CO(carbon Monoxide)  ,
-    * NMHC (Non-Methane HydroCarbons),
-    * SO2 (Sulphur Di-oxide) 
+eco-friendly:
+* carbon foot print in metric tons of CO2 emissions per year.
+* pollutants emissions rating EPA tier 1 to tier 5.
+* local body emissions standards adherence in terms of PM (particulate matter) , PPMV(parts per million by volume ) 	
+* measurement and monitoring of levels of
+    * NOx  (nitrogenous oxides),
+    * C (carbon) ,
+    * CO (carbon monoxide)  ,
+    * NMHC (non-methane hydro carbons),
+    * SO2 (dulphur di-oxide) 
